@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Acts.cs" />
+    <Compile Include="Of2016.cs" />
     <Compile Include="Clowns.cs" />
     <Compile Include="INose.cs" />
     <Compile Include="Picasso.cs" />
